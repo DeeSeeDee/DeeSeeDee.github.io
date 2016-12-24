@@ -30,8 +30,8 @@ $(function(){
 		}
 	});
 	
-	$('#test').append(plate.render());
-	$('#test').append(flowcell.render());
-	$('#test').append(nextPlate.render());
-	$('#test').append(funkyPlate.render());
+	$('#basicplate').append(plate.render());
+	$('#basicflowcell').append(flowcell.render());
+	$('#24plate').append(nextPlate.render());
+	$('#funkyplate').append(funkyPlate.render());
 });

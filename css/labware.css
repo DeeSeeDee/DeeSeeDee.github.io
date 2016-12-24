@@ -2,3 +2,20 @@
 	font-weight: bold;
 	font-family: sans-serif;
 }
+
+text.annotation{
+	fill: white;
+}
+
+#funky text.annotation{
+	fill: pink;
+}
+
+#funky .plate{
+	fill: purple;
+}
+
+#funky .well{
+	fill: yellow;
+	stroke: white;
+}
